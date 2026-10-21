@@ -1,2 +1,2 @@
 My solutions to introductory Python programming
-problems from Rosalind.
+problems in the Python Village Set
