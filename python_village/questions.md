@@ -1,2 +1,1 @@
-My solutions to introductory Python programming
-problems in the Python Village Set
+1. [ini1](https://rosalind.info/problems/ini1/)
