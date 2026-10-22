@@ -1,1 +1,2 @@
-1. [ini1](https://rosalind.info/problems/ini1/)
+1. [Installing Python(ini1)](https://rosalind.info/problems/ini1/)
+2. [Variables and Some Arithmetic(ini2)](https://rosalind.info/problems/ini2/)
