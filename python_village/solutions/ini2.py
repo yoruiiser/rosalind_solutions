@@ -1,2 +1,3 @@
+def ini1()
 x = a*a + b*b
-print (x)
+return x
