@@ -4,7 +4,7 @@ Track your own progress here. Add a checkbox when you start a problem and change
 
 ## Existing work
 
-- [ ] Python Village: INI
+- [X] Python Village: INI
 - [ ] Python Village: INI2
 - [ ] Python Village: INI3
 
